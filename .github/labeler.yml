@@ -1,0 +1,8 @@
+workflows:
+  - '.github/workflows/**/*'
+
+scripts:
+  - 'scripts/**/*'
+
+readme:
+  - 'sticky-notes/README.md'
