@@ -5,4 +5,6 @@ scripts:
   - 'scripts/**/*'
 
 readme:
-  - 'sticky-notes/README.md'
+  - 'README.md'
+src:
+  - 'src/*'
