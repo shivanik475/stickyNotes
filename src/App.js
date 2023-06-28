@@ -3,6 +3,7 @@ import { useState } from "react"
 import './App.css';
 import StickyNote from './components/StickyNotes'
 
+//testing labels
 function App() {
   const [notes, setNotes]=useState([])
   function addNote(){
