@@ -7,4 +7,4 @@ scripts:
 readme:
   - 'README.md'
 src:
-  - 'src/*'
+  - 'src/**/*'
